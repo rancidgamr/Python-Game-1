@@ -1,2 +1,2 @@
-import user-info()
+import user-info.py
 user-info()
